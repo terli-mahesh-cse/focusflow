@@ -2,8 +2,15 @@
 
 > A polished, production-ready Pomodoro study timer with accurate timestamp-based timing, circular SVG progress ring, daily streak tracking, weekly visual analytics, and offline-safe SQLite storage.
 
-![FocusFlow](https://img.shields.io/badge/Stack-Flask%20%7C%20Vanilla%20JS%20%7C%20SQLite-e4572e)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-success?style=for-the-badge&logo=render)](https://focusflow-37qe.onrender.com)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/terli-mahesh-cse/focusflow)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
+---
+
+### 🌐 Live Application
+You can use FocusFlow online directly at:
+👉 **[https://focusflow-37qe.onrender.com](https://focusflow-37qe.onrender.com)**
 
 ---
 
