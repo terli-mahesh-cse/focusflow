@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: focusflow
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: DB_PATH
+        value: app.db
+      - key: PYTHON_VERSION
+        value: 3.12.3
+    healthCheckPath: /api/health
